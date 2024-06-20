@@ -1,0 +1,4 @@
+Circular Diode:  ND=4.35361e+12  cm^{-3}  
+Diode:  ND=4.20285e+12  cm^{-3}  
+Half Diode:  ND=4.46061e+12  cm^{-3}  
+Quarter Diode:  ND=4.37037e+12  cm^{-3}  

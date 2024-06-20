@@ -1,0 +1,28 @@
+#time 	breakfast	cals os carbs 	suggested 
+6:46	Jablečný koláč s čokoládou/Apple pie with chocolate	92.64	200
+8:46	Chléb se šunkou, koláč/Bread with ham, cake	463.2	200
+8:58	Koláč, bábovka/Pie, cake	463.2	200
+7:23	Sladký čaj/sweet tea	92.64	200
+5:57	Rohlík, salám/Croissant, salami	185.28	200
+5:55	Rohlík, sýrová pomazánka s ořechy/Croissant, cheese spread with walnuts	185.28	200
+5:51	Chléb, paštika/Bread, pate	185.28	200
+5:51	Chléb, tavený sýr, rajčata/Bread, cream cheese, tomatoes	185.28	200
+7:19	Rohlík s medem 2x/Croissant with honey 2	463.2	200
+8:18	Rohlík, tavený sýr, zelenina/Croissant, cream cheese, vegetables	185.28	200
+5:58	Chléb sýr 2x/Bread cheese 2	370.56	200
+6:01	Chléb, sýr, zelenina/Bread, cheese, vegetables	277.92	200
+9:14	2x rohlík, salám, zelenina, mandarinka/2x croissant, sausage, vegetables, mandarin	463.2	200
+7:21	Rohlík, salám/Croissant, salami	185.28	200
+5:48	Chléb, sýr/Bread and cheese	231.6	200
+8:33	Chléb, máslo, med/Bread, butter, honey	463.2	200
+6:46	Chléb, sýr, zelenina/Bread, cheese, vegetables	463.2	200
+8:46	Pečivo s olivami/Bread with olives	185.28	200
+8:58	Mandarinka/Tangerine	92.64	200
+7:23	Muffin/Muffin	185.28	200
+5:57	Grahamové plátky 5 ks, sýr, zelenina/Graham slices of 5 pieces, cheese and vegetables	185.28	200
+5:55	Cléb, tavený sýr/Cléb, cream cheese	277.62	200
+5:51	Chléb, tavený sýr, salát/Bread, cream cheese, lettuce	277.62	200
+5:51	Toasty se šunkou a sýrem, pomeranč/Toast with ham and cheese, orange	555.84	200
+7:19	Houska, pomazánka/Bun, butter	185.28	200
+8:18	Koláč/Cake	370.56	200
+
